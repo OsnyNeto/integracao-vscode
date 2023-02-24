@@ -4,6 +4,10 @@ public class App {
 
         Integer numero = 20;
 
-        System.out.println(numero);
+        Integer numero2 = 50;
+        Integer numero3 = numero * numero2;
+
+
+        System.out.println(numero3);
     }
 }
